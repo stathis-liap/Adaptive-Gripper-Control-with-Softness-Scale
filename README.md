@@ -1,9 +1,12 @@
 Adaptive Gripper Control System
 
 This project provides a complete pipeline for a vision-assisted robotic gripper using a BLDC motor, YOLO object detection, and red marker tracking to determine object grip feasibility. It includes real-time visualization, PID autotuning, and dimension transmission to a microcontroller.
-📁 Project Structure
-🔧 Core Scripts
-main.py
+
+**📁 Project Structure**
+
+**🔧 Core Scripts**
+
+**_main.py_**
 
 Entry point for launching the gripper vision pipeline. It initializes and runs the Pipeline class with default parameters including YOLO model path and target object class.
 pipeline.py
