@@ -1,4 +1,4 @@
-Adaptive Gripper Control System
+**Adaptive Gripper Control System**
 
 This project provides a complete pipeline for a vision-assisted robotic gripper using a BLDC motor, YOLO object detection, and red marker tracking to determine object grip feasibility. It includes real-time visualization, PID autotuning, and dimension transmission to a microcontroller.
 
